@@ -71,7 +71,7 @@ body{
 }
 
 .hero{
-    background-image: url(/img/showcase.jpg);
+    background-image: url(img/showcase.jpg);
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
